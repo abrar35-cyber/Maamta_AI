@@ -2,7 +2,9 @@
 # 🩺 Maamta AI (مامتا اے آئی)
 > **Source-Grounded Maternal & Newborn Health Triage Assistant for Pakistan**
 
-Maamta AI is an evidence-grounded, zero-hallucination maternal and newborn triage application designed to assist mothers, families, and frontline healthcare workers in Pakistan. Built strictly upon approved national clinical guidelines and institutional protocols, Maamta AI bridges the critical gap in emergency symptom detection, antenatal care, and nutrition while supporting authentic Pakistani Roman Urdu and English.
+Maamta AI is an evidence-grounded, zero-hallucination maternal and newborn triage application designed to support mothers, families, and frontline healthcare workers across Pakistan. Built strictly on approved national clinical guidelines and institutional protocols, it provides reliable guidance for emergency symptom detection, antenatal care, maternal and newborn health, and nutrition.
+
+Supporting authentic Pakistani Roman Urdu and English, Maamta AI makes clinically grounded information more accessible while helping users recognize potential risks and take appropriate next steps.
 
 ---
 
