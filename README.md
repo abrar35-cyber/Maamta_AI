@@ -6,7 +6,6 @@ Maamta AI is an evidence-grounded, zero-hallucination maternal and newborn triag
 Supporting authentic Pakistani Roman Urdu and English, Maamta AI makes clinically grounded information more accessible while helping users recognize potential risks and take appropriate next steps.
 
 ---
-
 ## 🌟 Key Features
 
 * **🛡️ Zero Hallucination (Strict Source Grounding):** Responses are strictly generated from approved clinical guidelines using TF-IDF passage retrieval. If evidence is missing, the system adheres to strict clinical safety guardrails.
